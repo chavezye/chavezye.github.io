@@ -2,7 +2,7 @@
 
 Chengwei is currently a student in the Database and Information System Lab of School of Computer, Nankai University. I am currently studying the application of graph neural networks in recommendation systems.
 
-Please contract me by “ouyangjiawei@mail.nankai.edu.cn”.
+Please contact me by “yechengwei@dbis.nankai.edu.cn”.
 
 ### Study Experience
 
